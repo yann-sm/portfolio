@@ -305,6 +305,13 @@ ul li {
 .footer {
 	padding: 1rem 0;
 	text-align: center;
+	text-shadow: 1px 1px 1px blue;
+	letter-spacing: 2px;
+	height: 8vh;
+	background-color: #353535;
+	color: #fff;
+	border: 2px solid royalblue;
+	border-radius: 50% 50% 0 0;
 }
 
 /* Media queries */
